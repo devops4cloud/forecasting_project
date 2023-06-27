@@ -58,7 +58,7 @@ The user of the application will have to download Python,   Python package manag
    - [How to install Python](https://www.python.org/downloads/) 
    - [How to install PIP ](https://pip.pypa.io/en/stable/installation/) 
    - [How to install Git ](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-   - [How to install Prophet ](https://facebook.github.io/prophet/docs/installation.html#installation-in-python))
+   - [How to install Prophet ](https://facebook.github.io/prophet/docs/installation.html#installation-in-python)
 
 
 ---
