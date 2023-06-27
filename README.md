@@ -31,7 +31,7 @@ The application accesses the current search traffic, stock price and revenue dat
 <img src="./Images/search_traffic_by_month.png">
 
 #### 90 Day Sales Forecast
-<img src="./Images/10_Year_Distribution.png">
+<img src="./Images/sales_forecast.png">
 
 ---
 
